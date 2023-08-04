@@ -11,7 +11,8 @@ Flutter Web Framework: Flutter is a versatile open-source UI software developmen
 Dart programming language: Dart is a modern programming language developed by Google and used in conjunction with Flutter. It provides a concise and expressive syntax, making it ideal for building complex web applications like Gym Workout and Home Workout.
 
 Firebase Realtime Database: The Firebase Realtime Database is leveraged to store and synchronize real-time data across multiple users and devices. 
-![WhatsApp Image 2023-08-03 at 2 02 29 PM](https://github.com/priyank160/Gym-workout/assets/88378991/f9786bda-e849-4599-8f81-8664a42f2309)
+
+Check more details about this project Please read this blog: (https://sites.google.com/charusat.edu.in/priyankvasoya?usp=sharing)
 
 
 
